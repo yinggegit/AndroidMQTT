@@ -88,8 +88,8 @@ public class MainActivity extends Activity
 
     final int ReceivedTimeoutTick = 100;
 
-    //final int LoopPublishTick = 50;
-    final int LoopPublishTick = 5;
+    final int LoopPublishTick = 50;
+    //final int LoopPublishTick = 5;
 
     final int SendInterval = 1000; /*TickInterval*/
 
